@@ -1,1 +1,2 @@
 # Languagesswitcher
+WORDPRESS PLUGIN FOR SWITCT LANGQUE
